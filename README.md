@@ -6,7 +6,7 @@ Soy un Ingeniero de Software con un fuerte enfoque en DevOps y DevSecOps, especi
 * 🏢 **Actualmente:** Analista de Control de Calidad y Cambios TI en el Banco de Crédito de Bolivia (BCP), gestionando despliegues y prácticas DevSecOps.
 * ⚙️ **Enfoque técnico:** Creación de microservicios, arquitecturas robustas (Capas, Clean Architecture), automatización (IaC con Ansible) y despliegues (Docker, Kubernetes).
 * 🎯 **Mi objetivo:** Aportar valor, seguridad y confiabilidad a plataformas de misión crítica, optimizando el rendimiento y la continuidad del negocio.
-* 📫 **Contáctame:** [tu-correo@gmail.com] | [Tu LinkedIn](https://www.linkedin.com/in/david-costas/) | +591 77735973
+* 📫 **Contáctame:** [dbcm2012@gmail.com] | [Tu LinkedIn](https://www.linkedin.com/in/david-costas/) | +591 77735973
 
 ---
 
@@ -24,7 +24,6 @@ Soy un Ingeniero de Software con un fuerte enfoque en DevOps y DevSecOps, especi
 **Frontend & Mobile:**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **DevOps, Cloud & Automatización:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,7 +62,7 @@ Sistema integral de publicación de bienes raíces con flujo de monetización y 
 
 *   **Banco de Crédito de Bolivia (BCP):** Analista DevSecOps y Control de Calidad TI. Automatización operativa con Ansible, gestión de despliegues, revisiones de seguridad y administración de continuidad del negocio (Veeam Backup).
 *   **CONAINTEX:** Ingeniero de Software. Liderazgo técnico en arquitectura de microservicios con Java y despliegue en la nube mediante Kubernetes (AWS EKS) y pipelines CI/CD.
-*   **CosSauDev:** Desarrollador Freelance Full-Stack y Mobile (Flutter/Android). Creación de APIs REST y sistemas escalables para equipos multidisciplinarios internacionales.
+*   **CosSauDev:** Desarrollador Freelance Full-Stack. Creación de APIs REST y sistemas escalables para equipos multidisciplinarios internacionales.
 
 ---
 
